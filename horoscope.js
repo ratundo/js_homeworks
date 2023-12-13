@@ -57,5 +57,5 @@ if ((birthMonth === 1 && (birthDay >= 20 && birthDay <= 31)) ||
 } else alert ('invalid data!')
 
 
-alert ('User Bio: ${userFullName}, ${userAge} роки, ${userHoroscope};');
+alert (`User Bio: ${userFullName}, ${userAge} роки, ${userHoroscope};`);
 
